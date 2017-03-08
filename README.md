@@ -7,5 +7,7 @@ BASE_INTERVAL is the frequency check when memory is above threshold
 LOW_INTERVAL is the frequency check when memory is below threshold
 
 ## Usage
+```
 chmod +x low_ram_notifier.sh
 ./low_ram_notifier.sh
+```
